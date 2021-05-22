@@ -17,5 +17,5 @@ If you want to edit the code then you will need a coding software that supports 
 ### ✒️ Authors
 Gabriel Furnieles
 
-### ✅ Thanks
+### 🎁: Thanks
 Hope you like them! Any suggestion to improve or add features to the code will be welcome.
