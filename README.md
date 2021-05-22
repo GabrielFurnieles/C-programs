@@ -7,7 +7,7 @@ These are some programs created in C during my first programming course.
 - **Primitiva:** Lottery simulator (spanish version "Primitiva"). 
 
 ### 📋 Requirements
-To run the codes you don't need any specific software, jus windows/mac/linux console.
+To run the codes you don't need any specific software, just windows/mac/linux console.
 
 If you want to edit the code then you will need a coding software that supports C language, like CodeBlocks, VisualStudioCode...
 
