@@ -1,5 +1,4 @@
 # C-programs
-[link to repository](https://github.com/GabrielFurnieles/C-programs)
 These are some programs created in C during my first programming course.
 - **Ahorcado:** Classic hangman game with to options: user vs machine or user1 vs user2 (local).
 - **Analisis Noticias:** This code simulates a study about the number of news per week of six trend technologies, showing the total technology news and the average, technologies that appear the most per week, greater increase and trends.
